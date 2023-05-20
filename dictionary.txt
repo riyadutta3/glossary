@@ -1,0 +1,40 @@
+address	Reference to a memory location. In C pointers are used to hold addresses.
+ansi	American Standard Code For Information Interchange.
+api	Application Programming Interface
+argument	A value passed to a function (see parameter).
+auto	It is a storage class/ keyword in C Programming language which is used to declare a local variable.
+block	A Block in C is a set of statements written within the right and left braces.
+character-array	A set of elements of type char. (Can be used to store a string).
+compilation-error	Error which occurs during the translation of source code into machine code.
+compound-statement	A sequence of simple statements.
+constant	An item that represents a value that cannot be changed.
+data-type	Definition of the data. int, char, float.
+declaration	A construct which associates attributes to a variable name or function. No storage is reserved.
+delimiter	A delimiter is one or more characters that separate text strings.
+escape-sequence	Control codes comprising combinations of a backslash followed by letters or digits which represent non printing characters.
+executable-program	Program which will run in the environment of the operating system or within an appropriate run time environment.
+expression	A sequence of operators and operands which may yield a single value.
+extern	It is a keyword in C programming language which is used to declare a global variable that is a variable without any memory assigned to it.
+file	Data stored as an electronic file.
+format-specification	A string which controls how input or output shall be presented.
+goto	Goto is used to transfer the program control to a predefined label.
+identifier	The names used to refer to stored data values such as constants, variables or functions.
+integer	A number without a fractional part.
+keyword	A word which has a predefined meaning to a 'C' compiler and therefore must not be used for any otherparameter
+literal	Characters, letters or strings which are to be taken literally and used as constants rather than identifiers.
+operand	An expression acted on by an operator.
+operator	An operator is simply a symbol that is used to perform operations.
+parameter	A value received by a function.
+pointer	Variable containing an address.
+precedence	The order in which operators are dealt with during the evaluation of an expression.
+preprocessor	A processor which manipulates the initial directives of the source file which contains instructions about how the source file shall be processed and compiled.
+preprocessor-directive	Source file instruction about how the file shall be processed and compiled.
+program	A text file comprising code which can be compiled.
+reserved-word	A word which has a predefined meaning to a 'C' compiler and therefore must not be used for any otherrun-time-error
+run-time-error	An error which occurs when a program is executed.
+scope	scope in any programming is a region of the program where a defined variable can have its existence and beyond that variable it cannot be accessed.
+source-code	A text file comprising code which can be compiled.
+statement	A simple statement is an expression followed by a semicolon. (See compound statement and block).
+static	The keyword static means that the particular member belongs to a type itself, rather than to an instance of that type.
+string	A string in 'C' is an array of characters terminated by a Null character ('\0').
+variable	An identifier (and storage) for a data type and for which the data value is allowed to change as the program runs.
